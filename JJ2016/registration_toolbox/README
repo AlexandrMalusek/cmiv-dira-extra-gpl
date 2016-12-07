@@ -1,0 +1,10 @@
+Quadrature filters for non-linear registration
+============================================== 
+
+The quadrature filters for the non-linear registration are taken from 
+registration toolbox developed by Daniel Forsberg. His entire toolbox can be
+found on: 
+
+http://www.imt.liu.se/mi/Tools/
+
+The project is licensed under GPL version 3. 

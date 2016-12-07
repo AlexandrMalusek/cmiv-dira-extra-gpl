@@ -1,0 +1,23 @@
+Quadrature filters for linear registration
+==========================================
+
+This directory contains a MAT-file containing the three quadrature filters for 
+the linear registration by the JJ2016 algorithm. The quadrature filters are a 
+part of BROCCOLI, a software for analysis of fMRI data, developed by Anders 
+Eklund,Paul Dufort, Mattias Villani and Stephen Laconte. The software is 
+licensed under GPL version 3.
+
+
+For a detailed description on BROCCOLI, see
+
+[Eklund, A., Dufort, P., Villani, M., LaConte, S., BROCCOLI: Software for Fast 
+fMRI Analysis on Many-Core CPUs and GPUs, Frontiers in Neuroinformatics, 8:24, 2014]
+(http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract)
+
+
+
+The entire BROCCOLI software can be found in the following GitHub repository
+
+https://github.com/wanderine/BROCCOLI
+
+
